@@ -1,0 +1,28 @@
+# The name of the mod loader type to load - for regular FML @Mod mods it should be javafml
+modLoader="javafml"
+# A version range to match for said mod loader - for regular FML @Mod it will be the forge version
+# Forge for 1.16.3 is version 34
+loaderVersion="[36,)"
+
+license="MIT"
+
+[[mods]]
+modId="invisibleblocks"
+version="1.0.0.0"
+displayName="Invisible Blocks"
+authors="Darth_Pikachu"
+description="This mod adds invisible blocks."
+
+[[dependencies.invisibleblocks]]
+modId="forge"
+mandatory=true
+versionRange="[36,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.invisibleblocks]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.16.5]"
+ordering="NONE"
+side="BOTH"
