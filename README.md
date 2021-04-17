@@ -1,2 +1,2 @@
 # Invisible-Blocks
-This mod adds invisible blocks that only certain entities can go through.
+This mod adds am invisible block that only the player can go through.
