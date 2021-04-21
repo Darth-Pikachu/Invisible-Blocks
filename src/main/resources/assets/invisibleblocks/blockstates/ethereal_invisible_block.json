@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": [
+      { "model": "invisibleblocks:block/ethereal_invisible_block" }
+    ]
+  }
+}

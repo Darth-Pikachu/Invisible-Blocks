@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "invisibleblocks:block/ethereal_invisible_block"
+  }
+}
